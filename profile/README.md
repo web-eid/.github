@@ -21,7 +21,7 @@ Web eID organization has a number of repositories, some important ones include:
 * [web-eid-authtoken-validation-java](https://github.com/web-eid/web-eid-authtoken-validation-java): Web eID authentication token validation library for Java.
 * [web-eid-authtoken-validation-dotnet](https://github.com/web-eid/web-eid-authtoken-validation-dotnet): Web eID authentication token validation library for .NET.
 * [web-eid-spring-boot-example](https://github.com/web-eid/web-eid-authtoken-validation-java/tree/main/example): Example Spring Boot web application that uses Web eID for secure authentication and digital signing with electronic ID smart cards.
-* [web-eid-asp-dotnet-example](https://github.com/web-eid/web-eid-asp-dotnet-example): Example .NET web application that uses Web eID for secure authentication and digital signing with electronic ID smart cards.
+* [web-eid-asp-dotnet-example](https://github.com/web-eid/web-eid-authtoken-validation-dotnet/tree/main/example): Example .NET web application that uses Web eID for secure authentication and digital signing with electronic ID smart cards.
 
 ## Support
 Official builds are provided through official distribution point [id.ee](https://www.id.ee/en/article/install-id-software/). If you want support, you need to be using official builds. Contact our support via www.id.ee for assistance.
