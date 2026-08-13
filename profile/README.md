@@ -24,6 +24,8 @@ Web eID organization has a number of repositories, some important ones include:
 * [web-eid-asp-dotnet-example](https://github.com/web-eid/web-eid-authtoken-validation-dotnet/tree/main/example): Example .NET web application that uses Web eID for secure authentication and digital signing with electronic ID smart cards.
 
 ## Support
-Official builds are provided through official distribution point [id.ee](https://www.id.ee/en/article/install-id-software/). If you want support, you need to be using official builds. Contact our support via www.id.ee for assistance.
+Official builds are available through the official distribution point [id.ee](https://www.id.ee/en/article/install-id-software/). If you need support, please make sure you are using an official build and contact our support via [id.ee](https://www.id.ee/en/article/notify-us-of-the-problem/).
 
-Source code is provided on "as is" terms with no warranty (see license for more information). Do not file Github issues with generic support requests.
+The source code is provided on an “as is” basis, without warranty. See the applicable license for more information. Please do not use GitHub Issues for general support requests.
+
+If you discover a security vulnerability, please report it to CERT-EE at cert@cert.ee. Please do not disclose security vulnerabilities publicly through GitHub Issues.
