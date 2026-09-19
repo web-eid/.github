@@ -15,7 +15,7 @@ on:
       extensions:
         description: Space separated list of file extensions to check
         type: string
-        default: c cpp cxx h hpp m mm swift cs java kt kts php js mjs cjs ts tsx py sh ps1 applescript ui xml manifest yml yaml svg css qss html rc wxs wxl desktop zsh preinst postinst prerm postrm entitlements strings qrc def fbs i gradle cmake csproj
+        default: c cpp cxx h hpp m mm swift cs java kt kts php phtml js mjs cjs ts tsx py sh ps1 applescript ui xml manifest yml yaml svg css qss html rc wxs wxl desktop zsh preinst postinst prerm postrm entitlements strings qrc def fbs i gradle cmake csproj in
       filenames:
         description: Space separated list of file names to check, for files without a usable extension
         type: string
